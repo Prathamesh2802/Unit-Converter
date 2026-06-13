@@ -76,7 +76,7 @@ https://localhost:<port>/swagger
 ### Basic Get Request to check whether Server is Running
 
 ```http
-get /
+GET /
 ```
 
 ### Convert Units
