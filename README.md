@@ -73,10 +73,16 @@ https://localhost:<port>/swagger
 
 ## API Endpoint
 
+### Basic Get Request to check whether Server is Running
+
+```http
+get /
+```
+
 ### Convert Units
 
 ```http
-POST /api/conversion/convert
+POST /api/convert
 ```
 
 ### Request
