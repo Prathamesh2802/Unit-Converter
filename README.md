@@ -42,7 +42,22 @@ category:temperature
 
 ## Running the Project
 
-Clone the repository and run:
+Prerequisites
+
+    .NET 8 SDK installed
+
+    Git (optional)
+
+Verify the installation:
+
+dotnet --version
+
+Clone the Repository
+
+git clone <repository-url>
+cd UnitConverter
+
+run:
 
 ```bash
 dotnet restore
